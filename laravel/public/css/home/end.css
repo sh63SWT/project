@@ -1,0 +1,62 @@
+.clear::after, .clear::before
+{
+		content: '';
+		display: table;
+}
+.clear::after{
+     clear: both;
+}
+
+body{
+	margin: 0 auto;
+	padding: 0;
+}
+.end_all{
+	width: 100%;
+	height: 100%;
+	margin: 0 auto;
+	padding: 0;
+}
+.end_box{
+	width: 100%;
+	margin: 0 auto;
+
+}
+.end_body{
+	width: 1000px;
+	height: 650px;
+	margin: 0 auto;
+}
+.end_img{
+	width: 1000px;
+	height: 150px;
+	float: left;
+	text-align: center;
+	margin-top: 150px;
+}
+.end_font{
+	width: 1000px;
+	height: 80px;
+	float: left;
+	text-align: center;
+}
+.end_font a{
+	font-size: 35px;
+
+}
+.end_font_small{
+	width: 1000px;
+	height: 100px;
+	float: left;
+	text-align: center;
+}
+.end_font_small a {
+	font-size: 20px;
+	color: #ccc;
+
+}
+.end_font_small  a span{
+	font-size: 20px;
+	color: green;
+    list-style: none;
+}

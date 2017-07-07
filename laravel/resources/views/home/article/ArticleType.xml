@@ -1,0 +1,11 @@
+<?xml version="1.0" encode="utf-8"?>
+<div class="select-inner">
+    <a class="ng-binding ng-scope">兴趣（插画、手作、漫画）</a>
+    <a class="ng-binding ng-scope">住家（园艺、萌宠、家居、情感）</a>
+    <a class="ng-binding ng-scope">旅行</a>
+    <a class="ng-binding ng-scope">美经（美妆护肤、穿搭心得）</a>
+    <a class="ng-binding ng-scope">文娱（电影、音乐、书籍）</a>
+    <a class="ng-binding ng-scope">摄影</a>
+    <a class="ng-binding ng-scope">美食</a>
+    <a class="ng-binding ng-scope">其他</a>
+</div>

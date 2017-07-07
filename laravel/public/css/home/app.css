@@ -1,0 +1,23 @@
+<<<<<<< HEAD
+/*
+@功能：全局css定义
+@作者：diamondwang
+@时间：2013年11月4日
+*/
+body{font-size: 12px; color: #333;}
+.w1210{width: 1210px;}
+.w990{width: 990px;}
+a{color:#333;text-decoration:none;}
+a:hover{color: #E4393C; text-decoration: underline;}
+=======
+/*
+@功能：全局css定义
+@作者：diamondwang
+@时间：2013年11月4日
+*/
+body{font-size: 12px; color: #333;}
+.w1210{width: 1210px;}
+.w990{width: 990px;}
+a{color:#333;text-decoration:none;}
+a:hover{color: #E4393C; text-decoration: underline;}
+>>>>>>> 382369f07415397d388c1acdb448e6e4c728addd

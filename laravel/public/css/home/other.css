@@ -1,0 +1,19 @@
+.blockUI{z-index: 9011; position: fixed; padding: 0px; margin: -156px 0px 0px -330px;
+    width: 660px; top: 50%; left: 50%; text-align: left; color: rgb(0, 0, 0);
+    border: none; background: none; height: 272px;}
+
+.blockOverlay{z-index: 9000; border: none; margin: 0px; padding: 0px; width: 100%; height: 100%;
+    top: 0px; left: 0px; background-color: rgb(0, 0, 0); opacity: 0.2; position: fixed;}
+
+.blockPage{z-index: 9011; position: fixed; padding: 0px; margin: -292.5px 0px 0px -330px; width: 660px; top: 50%; left: 50%;
+    text-align: left; color: rgb(0, 0, 0); border: none; background: none; height: 545px;}
+
+.blockMsg{z-index: 9011; position: fixed; padding: 0px; margin: -185.5px 0px 0px -242px; width: 484px; top: 50%; left: 50%; text-align: left; color: rgb(0, 0, 0); border: none; background: none; height: 331px;}
+
+.blach{display: none}
+
+.reply-sub input{
+    width:100px;
+    height:100px;background: pink}
+
+
